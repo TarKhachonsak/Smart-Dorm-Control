@@ -1,12 +1,15 @@
 <template>
-  <div>
-    akljshdkh
-  </div>
+    <Navbar />
+    <Background />
+    <Menu />
+    <Backgroundtwo />
+    <Howtopay />
+    <Footer />
 </template>
 
 <script>
 export default {
-
+  name: 'Home'
 }
 </script>
 
