@@ -1,16 +1,13 @@
 <template>
-  <Navbar/>
-  <Qrcode/>
-  <Footer/>
+  <Infomation/>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name:'app'
 }
 </script>
+
 <style>
-  body{
-    font-family: "Poppins",sans-serif;
-  }
+
 </style>
