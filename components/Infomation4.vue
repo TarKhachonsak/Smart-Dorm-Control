@@ -4,16 +4,16 @@
             <p class="bg-blue-300 rounded-tl-2xl rounded-br-3xl px-6 text-2xl font-bold">A101</p>
         </div>
         <div class="flex items-center">
-            <img src="../public/nadeach.jpg" class="rounded-full h-[150px] w-[150px] border-blue-500 border-8">
+            <img src="../public/jan.jpg" class="rounded-full h-[150px] w-[150px] border-blue-500 border-8">
          </div>
          <div class="grid grid-cols-2 items-center pl-10">
             <div class="flex items-center">
                 <i class="fa-solid fa-user pr-2"></i>
-                <p class="pr-3">ชื่อ ณเดชน์     คลูชิมิจ๊ะ</p>
+                <p class="pr-3">ชื่อ เจน ดีจริงๆ</p>
             </div>
             <div class="flex items-center">
                 <i class="fa-regular fa-user pr-2"></i>
-                <p>ชื่อเล่น บาส</p>
+                <p>ชื่อเล่น เจน</p>
             </div>
             <div class="flex items-center">
                 <i class="fa-solid fa-mobile-screen-button pr-2"></i>
@@ -21,11 +21,11 @@
             </div>
             <div class="flex items-center">
                 <i class="fa-solid fa-envelope pr-2"></i>
-                <p>อีเมล Nadacheiei@gimi.com</p>
+                <p>อีเมล haiterda4@gimi.com</p>
             </div>
             <div class="flex items-center">
                 <i class="fa-solid fa-file-signature pr-2"></i>
-                <p>เริ่มทำสัญญา 14 มกราคม 2541</p>
+                <p>เริ่มทำสัญญา 5 กรกฎาคม 2465</p>
             </div>
          </div>
         <div class="flex flex-col justify-between">

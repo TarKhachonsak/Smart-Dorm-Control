@@ -1,13 +1,7 @@
 <template>
   <Infomation/>
+  <Infomation2/>
+  <Infomation3/>
+  <infomation-4/>
 </template>
 
-<script>
-export default {
-  name:'app'
-}
-</script>
-
-<style>
-
-</style>
