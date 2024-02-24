@@ -25,7 +25,7 @@
             </div>
             <div class="flex items-center">
                 <i class="fa-solid fa-file-signature pr-2"></i>
-                <p>เริ่มทำสัญญา 14/02/1987</p>
+                <p>เริ่มทำสัญญา 31 ธันวาคม 2567</p>
             </div>
          </div>
         <div class="flex flex-col justify-between">
