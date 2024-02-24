@@ -31,15 +31,18 @@
         <div class="flex flex-col justify-between">
             <div class="mt-5">
                 <div>
-                    <p class="bg-[#56F000] mb-3 pl-3 rounded-l-lg font-bold ">สถานะ: กำลังเช่า</p>
+                    <p class="bg-[#FFB302] mb-3 px-6 rounded-l-lg font-bold flex justify-center">สถานะ: ค้างค่าเช่า</p>
                 </div>
-                <div class="flex items-center bg-[#A7CAFF] ml-20 rounded-l-lg">
-                    <p class="pl-3 font-bold">แชต</p>
-                    <i class="fa-solid fa-comment pl-2"></i>
+                <div class="flex justify-end">
+                    <button class="flex items-center justify-center bg-[#A7CAFF] hover:bg-[#6E9FE8] ml-20 rounded-l-lg">
+                        <p class="px-3 font-bold">แชต</p>
+                        <i class="fa-solid fa-comment pr-3"></i>
+                    </button>
                 </div>
+                
             </div>
-            <div class="mr-5 mb-2">
-                <p class="text-[#3D9DD9]">รายละเอียดเพิ่มเติม...</p>
+            <div class="mb-2">
+                <a href="#" class="text-[#3D9DD9] hover:underline flex justify-center">รายละเอียดเพิ่มเติม...</a>
             </div>
         </div>
     </div>

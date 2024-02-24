@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-white">
+  <nav class="bg-white shadow-md">
     <div id="menu" class="flex justify-between items-center px-12">
         <div id="logo">
             <a href="#"><img src="public/logo.png" class="size-20"></a>
