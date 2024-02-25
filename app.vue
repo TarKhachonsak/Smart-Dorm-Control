@@ -1,5 +1,5 @@
 <template>
     <Navbar/>
-    <Status/>
+    <Slectroom/>
     <Footer/>
 </template>
