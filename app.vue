@@ -1,5 +1,5 @@
 <template>
     <Navbar/>
-    <Bill/>
+    <Status/>
     <Footer/>
 </template>
