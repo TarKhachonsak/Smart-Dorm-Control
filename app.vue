@@ -1,5 +1,5 @@
 <template>
     <Navbar/>
-    <Slectroom/>
+    <Tanantinformation/>
     <Footer/>
 </template>
