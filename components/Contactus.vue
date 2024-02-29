@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center my-20">
+  <div class="flex justify-center my-44">
     <div class="mx-10">
         <img src="../public/me.png" alt="">
     </div>
